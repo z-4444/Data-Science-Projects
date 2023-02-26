@@ -1,0 +1,418 @@
+[I 2023-02-21 09:08:09.456 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-21 09:08:09.456 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 09:08:09.491 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/week 2/day2
+[I 09:08:09.491 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 09:08:09.491 NotebookApp] http://localhost:8888/?token=531b54f094a952f6a88105c80edddaac912784816ee18083
+[I 09:08:09.491 NotebookApp]  or http://127.0.0.1:8888/?token=531b54f094a952f6a88105c80edddaac912784816ee18083
+[I 09:08:09.491 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:08:09.587 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-5899-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=531b54f094a952f6a88105c80edddaac912784816ee18083
+     or http://127.0.0.1:8888/?token=531b54f094a952f6a88105c80edddaac912784816ee18083
+[I 09:08:43.146 NotebookApp] Kernel started: fbd1618b-25dc-4081-9124-e81f99728014, name: python3
+[I 09:10:42.381 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:12:42.374 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:14:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:16:42.365 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:18:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:20:41.791 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:22:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:24:41.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:28:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:30:42.356 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:32:42.393 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:34:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:36:42.384 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:40:41.792 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:42:42.360 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:44:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:46:41.793 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:48:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:50:41.793 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:52:41.795 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 09:54:42.363 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:00:41.792 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:02:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:04:41.795 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:14:41.789 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:16:41.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:18:41.798 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:20:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:26:41.815 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:28:41.793 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:30:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:32:42.362 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:34:41.817 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:36:41.786 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:46:41.791 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:48:41.793 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:50:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:52:41.797 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:54:41.791 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:56:41.806 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 10:58:41.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:00:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:06:41.792 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:08:41.792 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:10:42.359 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:12:42.364 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:14:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:16:41.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:18:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:20:42.365 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:22:41.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:24:42.362 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:26:41.789 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:28:41.791 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:30:42.362 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:32:41.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:34:41.785 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:36:41.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:38:41.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:40:41.800 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:42:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:44:41.794 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:48:41.797 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:50:41.795 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 11:54:40.466 NotebookApp] Creating new notebook in 
+[I 11:54:43.034 NotebookApp] Kernel started: 7d727577-78ed-4399-ac2a-85cf623df264, name: python3
+[ WARN:0@13.038] global loadsave.cpp:244 findDecoder imread_('baboon.png'): can't open/read file: check file path/integrity
+[I 11:56:19.870 NotebookApp] Creating new notebook in 
+[I 11:56:22.167 NotebookApp] Kernel started: e148b257-58f7-4a7e-9be9-c86c9c70a146, name: python3
+[I 11:56:43.031 NotebookApp] Saving file at /Untitled.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+libpng warning: iCCP: known incorrect sRGB profile
+[I 11:58:22.377 NotebookApp] Saving file at /croping and rotation.ipynb
+[I 11:58:43.030 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:00:43.025 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:02:43.030 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:04:43.026 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:06:43.028 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:08:43.028 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:10:43.020 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:12:43.027 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:14:43.029 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:16:43.058 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:18:43.045 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:20:43.050 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:24:43.176 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:26:43.045 NotebookApp] Saving file at /Untitled.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:30:43.069 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:35:05.243 NotebookApp] Creating new notebook in 
+[I 12:35:07.706 NotebookApp] Kernel started: a219921b-0a51-4272-8e43-3990efa5f917, name: python3
+[W 12:36:09.895 NotebookApp] Notebook api server side.ipynb is not trusted
+[I 12:36:10.133 NotebookApp] Kernel started: 6c5499d3-394f-47e8-9986-306ae88ea0c0, name: python3
+[I 12:36:40.906 NotebookApp] Starting buffering for 6c5499d3-394f-47e8-9986-306ae88ea0c0:da9c26ade1f544628b3f5a1ed720e854
+[I 12:37:08.369 NotebookApp] Saving file at /flask api server side.ipynb
+[W 12:37:24.168 NotebookApp] Notebook 1st weak task.ipynb is not trusted
+[I 12:37:24.673 NotebookApp] Kernel started: 0ca871d7-6f1a-4684-989d-feb479f31e20, name: python3
+[I 12:38:12.288 NotebookApp] Starting buffering for 0ca871d7-6f1a-4684-989d-feb479f31e20:b991017e561245a5824e4695cc503f00
+[I 12:39:11.667 NotebookApp] Kernel started: f6cabfaf-cbd5-46e7-9c9b-ad75225581a7, name: python3
+[I 12:39:59.522 NotebookApp] Starting buffering for f6cabfaf-cbd5-46e7-9c9b-ad75225581a7:f12dec422b3549188c272991f9751afd
+[W 12:40:44.396 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 12:40:44.652 NotebookApp] Kernel started: 4bfb42c4-b329-4ee6-b345-492ba19ca128, name: python3
+[I 12:41:08.350 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:41:16.027 NotebookApp] Starting buffering for 4bfb42c4-b329-4ee6-b345-492ba19ca128:e12d970ef1a244478641a39987fdf2c5
+[I 12:42:22.174 NotebookApp] Saving file at /flask api client side.ipynb
+[I 12:43:07.694 NotebookApp] Saving file at /flask api server side.ipynb
+[W 12:43:25.642 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 12:43:25.911 NotebookApp] Kernel started: d26f472b-294a-409a-8b7d-9b91d56a7ba4, name: python3
+[I 12:45:07.690 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:46:22.150 NotebookApp] Saving file at /flask api client side.ipynb
+[I 12:46:42.839 NotebookApp] Starting buffering for d26f472b-294a-409a-8b7d-9b91d56a7ba4:d037be65b52448f38222aa154d94fd2a
+[I 12:47:08.374 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:48:11.701 NotebookApp] Kernel interrupted: a219921b-0a51-4272-8e43-3990efa5f917
+[I 12:48:22.168 NotebookApp] Saving file at /flask api client side.ipynb
+[I 12:49:08.350 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:51:07.693 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:52:21.969 NotebookApp] Kernel interrupted: a219921b-0a51-4272-8e43-3990efa5f917
+[I 12:52:22.347 NotebookApp] Saving file at /flask api client side.ipynb
+[I 12:52:54.238 NotebookApp] Kernel interrupted: a219921b-0a51-4272-8e43-3990efa5f917
+[I 12:53:08.351 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:53:26.413 NotebookApp] Kernel interrupted: a219921b-0a51-4272-8e43-3990efa5f917
+[I 12:54:22.149 NotebookApp] Saving file at /flask api client side.ipynb
+[I 12:55:07.699 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:55:10.522 NotebookApp] Kernel interrupted: a219921b-0a51-4272-8e43-3990efa5f917
+[I 12:56:22.149 NotebookApp] Saving file at /flask api client side.ipynb
+[I 12:57:08.349 NotebookApp] Saving file at /flask api server side.ipynb
+[I 12:58:22.348 NotebookApp] Saving file at /flask api client side.ipynb
+[I 12:59:08.350 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:06:22.147 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:08:22.156 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:10:22.162 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:11:22.376 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:12:22.150 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:13:24.352 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:14:22.350 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:16:22.156 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:18:22.152 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:20:22.157 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:22:22.351 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:24:22.147 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:25:08.374 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:26:22.389 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:27:08.350 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:28:22.401 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:38:22.192 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:40:22.182 NotebookApp] Saving file at /flask api client side.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[I 13:42:22.168 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:43:08.376 NotebookApp] Saving file at /flask api server side.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 13:45:08.348 NotebookApp] Saving file at /flask api server side.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 13:46:22.174 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:47:08.351 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:48:22.150 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:49:07.694 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:51:08.349 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:52:22.148 NotebookApp] Saving file at /flask api client side.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[I 13:53:08.348 NotebookApp] Saving file at /flask api server side.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[I 13:54:22.164 NotebookApp] Saving file at /flask api client side.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: known incorrect sRGB profile
+[I 13:55:07.699 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:56:22.150 NotebookApp] Saving file at /flask api client side.ipynb
+[I 13:57:08.350 NotebookApp] Saving file at /flask api server side.ipynb
+[I 13:59:07.694 NotebookApp] Saving file at /flask api server side.ipynb
+[I 14:00:31.773 NotebookApp] Starting buffering for a219921b-0a51-4272-8e43-3990efa5f917:6374a7cd1a2e40c98f1bcc0a3a600134
+[I 14:00:31.774 NotebookApp] Starting buffering for 7d727577-78ed-4399-ac2a-85cf623df264:5667a33f65e241958934ee8d37256c40
+[I 14:00:31.776 NotebookApp] Starting buffering for e148b257-58f7-4a7e-9be9-c86c9c70a146:be004807be5544c189a86d7b72aaf515
+[I 14:00:31.776 NotebookApp] Starting buffering for fbd1618b-25dc-4081-9124-e81f99728014:3dffb6adc9a945009ffc10596febe0fa
+[I 14:00:32.813 NotebookApp] Restoring connection for a219921b-0a51-4272-8e43-3990efa5f917:6374a7cd1a2e40c98f1bcc0a3a600134
+[I 14:00:33.338 NotebookApp] Restoring connection for 7d727577-78ed-4399-ac2a-85cf623df264:5667a33f65e241958934ee8d37256c40
+[I 14:00:33.361 NotebookApp] Restoring connection for fbd1618b-25dc-4081-9124-e81f99728014:3dffb6adc9a945009ffc10596febe0fa
+[I 14:00:33.387 NotebookApp] Restoring connection for e148b257-58f7-4a7e-9be9-c86c9c70a146:be004807be5544c189a86d7b72aaf515
+[I 14:42:32.694 NotebookApp] Saving file at /flask api server side.ipynb
+[I 14:53:43.211 NotebookApp] Creating new notebook in 
+[I 14:53:50.594 NotebookApp] Kernel started: 4bd68cda-83be-401c-9f53-4ab9976db064, name: python3
+[I 14:55:50.536 NotebookApp] Saving file at /Untitled6.ipynb
+[I 14:56:14.318 NotebookApp] Starting buffering for 4bd68cda-83be-401c-9f53-4ab9976db064:82eaf40335484743b1b46b98ef7992a5
+[I 14:56:14.875 NotebookApp] Kernel restarted: 4bd68cda-83be-401c-9f53-4ab9976db064
+[I 14:56:14.897 NotebookApp] Restoring connection for 4bd68cda-83be-401c-9f53-4ab9976db064:82eaf40335484743b1b46b98ef7992a5
+[I 14:56:16.258 NotebookApp] Replaying 3 buffered messages
+[I 14:56:29.305 NotebookApp] Starting buffering for 4bd68cda-83be-401c-9f53-4ab9976db064:82eaf40335484743b1b46b98ef7992a5
+[I 14:56:29.862 NotebookApp] Kernel restarted: 4bd68cda-83be-401c-9f53-4ab9976db064
+[I 14:56:29.884 NotebookApp] Restoring connection for 4bd68cda-83be-401c-9f53-4ab9976db064:82eaf40335484743b1b46b98ef7992a5
+[I 14:56:31.298 NotebookApp] Replaying 3 buffered messages
+[I 14:57:50.540 NotebookApp] Saving file at /Untitled6.ipynb
+[I 14:59:51.476 NotebookApp] Saving file at /Untitled6.ipynb
+[I 15:01:52.666 NotebookApp] Saving file at /Untitled6.ipynb
+[W 15:02:52.709 NotebookApp] Notebook task1_reduce_dataset_size.ipynb is not trusted
+[I 15:02:54.251 NotebookApp] Kernel started: ac4e046f-4513-4d0b-b50a-1d7a4abaf686, name: python3
+[I 15:03:26.643 NotebookApp] Saving file at /Untitled6.ipynb
+[W 15:03:55.145 NotebookApp] Timeout waiting for kernel_info reply from ac4e046f-4513-4d0b-b50a-1d7a4abaf686
+[W 15:03:59.932 NotebookApp] Nudge: attempt 10 on kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686
+[W 15:04:04.952 NotebookApp] Nudge: attempt 20 on kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686
+[W 15:04:09.970 NotebookApp] Nudge: attempt 30 on kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686
+[W 15:04:14.988 NotebookApp] Nudge: attempt 40 on kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686
+[I 15:04:53.921 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:05:51.356 NotebookApp] Saving file at /Untitled6.ipynb
+[I 15:11:03.086 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686 restarted
+[I 15:11:24.320 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686 restarted
+[I 15:11:33.002 NotebookApp] Starting buffering for ac4e046f-4513-4d0b-b50a-1d7a4abaf686:e030356a9fa441d3b98930531c334f64
+[I 15:11:33.657 NotebookApp] Kernel restarted: ac4e046f-4513-4d0b-b50a-1d7a4abaf686
+[I 15:11:33.677 NotebookApp] Restoring connection for ac4e046f-4513-4d0b-b50a-1d7a4abaf686:e030356a9fa441d3b98930531c334f64
+[I 15:11:35.049 NotebookApp] Replaying 3 buffered messages
+[I 15:11:42.647 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686 restarted
+[I 15:12:54.353 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:13:36.675 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686 restarted
+[I 15:14:54.374 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:16:12.705 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel ac4e046f-4513-4d0b-b50a-1d7a4abaf686 restarted
+[I 15:16:54.794 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:40:05.501 NotebookApp] Creating new notebook in 
+[I 15:40:10.418 NotebookApp] Kernel started: d22f08b1-7751-42aa-a873-c9d0045975f1, name: python3
+[I 15:42:10.439 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:44:10.427 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:46:10.405 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:48:10.404 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:50:10.404 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:52:10.403 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:54:10.403 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:56:10.405 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 15:58:10.403 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:00:10.403 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:02:10.404 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:06:10.405 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:08:10.417 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:10:10.404 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:12:10.402 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:14:10.405 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:16:10.404 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:18:10.420 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:20:10.401 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:22:11.246 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:24:10.449 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:26:10.402 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:28:10.404 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:30:10.405 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:32:10.405 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:36:10.403 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:36:22.212 NotebookApp] Starting buffering for 4bd68cda-83be-401c-9f53-4ab9976db064:82eaf40335484743b1b46b98ef7992a5
+[I 16:36:33.589 NotebookApp] Saving file at /flask api server side.ipynb
+[I 16:37:45.273 NotebookApp] Creating new notebook in 
+[I 16:37:47.682 NotebookApp] Kernel started: 2e80754b-ab52-4ece-8f54-4cae4e15e65f, name: python3
+[I 16:38:33.584 NotebookApp] Saving file at /flask api server side.ipynb
+[I 16:39:47.694 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:40:09.866 NotebookApp] Creating new notebook in 
+[I 16:40:12.138 NotebookApp] Kernel started: 5a97676e-eef5-42d6-8f58-19ba60a97c2a, name: python3
+[I 16:41:48.272 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:42:12.159 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 16:43:48.266 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:44:01.739 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:44:12.160 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 16:44:54.046 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:45:48.244 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:46:12.130 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 16:46:24.798 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:47:03.777 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:47:29.107 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:47:48.242 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:48:12.243 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 16:49:06.233 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:49:47.668 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:49:55.621 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:50:12.131 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 16:50:36.773 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:51:24.753 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:51:48.245 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:52:12.131 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 16:53:11.890 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:53:47.664 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:54:12.243 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 16:54:27.441 NotebookApp] Kernel interrupted: 2e80754b-ab52-4ece-8f54-4cae4e15e65f
+[I 16:55:48.245 NotebookApp] Saving file at /q2 part 2 serverside.ipynb
+[I 16:56:10.428 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 16:56:12.244 NotebookApp] Saving file at /q2 part 2 client side.ipynb
+[I 17:04:10.428 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 17:06:10.403 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 17:08:10.405 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 17:10:10.403 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 17:12:10.401 NotebookApp] Saving file at /week 2 task q 2.ipynb
+[I 2023-02-21 17:43:27.774 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-21 17:43:27.774 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 17:43:27.801 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/week 2/day2
+[I 17:43:27.801 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 17:43:27.801 NotebookApp] http://localhost:8888/?token=1758a8e3a1bc3efdaa27793fdf76189c9db5c96f472a0bd3
+[I 17:43:27.801 NotebookApp]  or http://127.0.0.1:8888/?token=1758a8e3a1bc3efdaa27793fdf76189c9db5c96f472a0bd3
+[I 17:43:27.801 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:43:27.922 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-4397-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=1758a8e3a1bc3efdaa27793fdf76189c9db5c96f472a0bd3
+     or http://127.0.0.1:8888/?token=1758a8e3a1bc3efdaa27793fdf76189c9db5c96f472a0bd3
+[W 17:43:51.694 NotebookApp] Notebook week 2 task q 2.ipynb is not trusted
+[I 17:43:52.227 NotebookApp] Kernel started: 6e20dab5-db57-48d7-9529-5aa8f2cd8ff6, name: python3
+[I 17:44:16.836 NotebookApp] Kernel started: 140ed308-5d80-4e69-ae27-e0ef15179596, name: python3
+[W 17:44:18.477 NotebookApp] Notebook flask api server side.ipynb is not trusted
+[W 17:44:19.015 NotebookApp] Notebook flask api server side.ipynb is not trusted
+[I 17:44:19.308 NotebookApp] Kernel started: 1500500a-0520-47c2-8826-146da9d53851, name: python3
+[W 17:44:24.327 NotebookApp] Notebook flask api client side.ipynb is not trusted
+[W 17:44:24.894 NotebookApp] Notebook flask api client side.ipynb is not trusted
+[I 17:44:25.251 NotebookApp] Kernel started: b126e68b-ee24-4c3f-9b29-daa117bdf086, name: python3
+[W 17:44:28.733 NotebookApp] Notebook crop & rotate solution.ipynb is not trusted
+[W 17:44:29.217 NotebookApp] Notebook crop & rotate solution.ipynb is not trusted
+[I 17:44:29.608 NotebookApp] Kernel started: 74e21185-b383-4c19-8c30-a555576e0ffa, name: python3
+[I 17:44:57.807 NotebookApp] Starting buffering for 1500500a-0520-47c2-8826-146da9d53851:18435d375da24755800e30eafd5c9ed3
+[I 17:44:58.670 NotebookApp] Starting buffering for b126e68b-ee24-4c3f-9b29-daa117bdf086:1a4836cdf5664f6a859620bacb7143f1
+[I 17:46:06.352 NotebookApp] Creating new notebook in 
+[I 17:46:08.658 NotebookApp] Kernel started: 895a6d74-66bf-437b-93df-bd7dc873a63d, name: python3
+[I 17:48:08.643 NotebookApp] Saving file at /task 2 solution.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 17:55:43.823 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 140ed308-5d80-4e69-ae27-e0ef15179596 restarted
+[I 17:56:16.025 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:56:22.853 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 140ed308-5d80-4e69-ae27-e0ef15179596 restarted
+[I 17:56:43.755 NotebookApp] Starting buffering for 140ed308-5d80-4e69-ae27-e0ef15179596:9f018e49fcdf46b6ab75abf43cb7613c
+[I 17:56:44.308 NotebookApp] Kernel restarted: 140ed308-5d80-4e69-ae27-e0ef15179596
+[I 17:56:44.335 NotebookApp] Restoring connection for 140ed308-5d80-4e69-ae27-e0ef15179596:9f018e49fcdf46b6ab75abf43cb7613c
+[I 17:56:45.684 NotebookApp] Replaying 3 buffered messages
+[I 17:58:16.009 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:59:59.299 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 140ed308-5d80-4e69-ae27-e0ef15179596 restarted
+[I 18:00:18.292 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:00:18.827 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:00:26.250 NotebookApp] Starting buffering for 140ed308-5d80-4e69-ae27-e0ef15179596:9f018e49fcdf46b6ab75abf43cb7613c
+[W 18:00:57.377 NotebookApp] Forbidden
+[W 18:00:57.378 NotebookApp] 403 GET /api/config/notebook?_=1676984457102 (127.0.0.1) 2.550000ms referer=http://localhost:8888/notebooks/flask%20api%20client%20side.ipynb
+[W 18:00:57.381 NotebookApp] Forbidden
+[W 18:00:57.382 NotebookApp] 403 GET /api/config/common?_=1676984457103 (127.0.0.1) 2.390000ms referer=http://localhost:8888/notebooks/flask%20api%20client%20side.ipynb
+[W 18:00:57.507 NotebookApp] Forbidden
+[W 18:00:57.508 NotebookApp] 403 GET /api/kernelspecs (127.0.0.1) 1.620000ms referer=http://localhost:8888/notebooks/flask%20api%20client%20side.ipynb
+[W 18:00:57.534 NotebookApp] Forbidden
+[W 18:00:57.535 NotebookApp] 403 GET /api/contents/flask%20api%20client%20side.ipynb?type=notebook&_=1676984457104 (127.0.0.1) 2.590000ms referer=http://localhost:8888/notebooks/flask%20api%20client%20side.ipynb
+[I 2023-02-21 18:01:53.477 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-21 18:01:53.477 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 18:01:53.485 NotebookApp] The port 8888 is already in use, trying another port.
+[I 18:01:53.486 NotebookApp] The port 8889 is already in use, trying another port.
+[I 18:01:53.487 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/week 2/day2
+[I 18:01:53.487 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 18:01:53.487 NotebookApp] http://localhost:8890/?token=1b012355c67ded18f38e5605fff15da8f64d80c12ae48a5a
+[I 18:01:53.487 NotebookApp]  or http://127.0.0.1:8890/?token=1b012355c67ded18f38e5605fff15da8f64d80c12ae48a5a
+[I 18:01:53.487 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:01:53.545 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-5687-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=1b012355c67ded18f38e5605fff15da8f64d80c12ae48a5a
+     or http://127.0.0.1:8890/?token=1b012355c67ded18f38e5605fff15da8f64d80c12ae48a5a
+[I 18:02:19.098 NotebookApp] Kernel started: 05f41283-0b89-4ec4-83d0-19e64adbebbd, name: python3
+[I 18:02:25.079 NotebookApp] KernelRestarter: restarting kernel (1/5), new random ports
+kernel 05f41283-0b89-4ec4-83d0-19e64adbebbd restarted
+[I 18:03:07.108 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 05f41283-0b89-4ec4-83d0-19e64adbebbd restarted
+[I 18:04:19.082 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:13:19.137 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 05f41283-0b89-4ec4-83d0-19e64adbebbd restarted
+[I 18:14:19.071 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:16:40.477 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 05f41283-0b89-4ec4-83d0-19e64adbebbd restarted
+[I 18:18:04.506 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel 05f41283-0b89-4ec4-83d0-19e64adbebbd restarted
+[I 18:18:19.052 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:18:57.862 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:18:58.843 NotebookApp] Starting buffering for 05f41283-0b89-4ec4-83d0-19e64adbebbd:b93e4fdc6a2a41c18605b09a93212784
+[I 18:18:59.591 NotebookApp] Starting buffering for 74e21185-b383-4c19-8c30-a555576e0ffa:4084572ab31043a78cf04e442edeb85e
+[I 18:18:59.610 NotebookApp] Starting buffering for 895a6d74-66bf-437b-93df-bd7dc873a63d:5247e4a48bf542d18da8a5ed486c396f
+[I 18:18:59.624 NotebookApp] Starting buffering for 6e20dab5-db57-48d7-9529-5aa8f2cd8ff6:3472719c598a4ccb893b76e43d8780b5
