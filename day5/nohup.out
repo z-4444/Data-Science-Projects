@@ -1,0 +1,288 @@
+[I 2023-02-17 09:06:33.037 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-17 09:06:33.037 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 09:06:33.065 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/day5
+[I 09:06:33.065 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 09:06:33.065 NotebookApp] http://localhost:8888/?token=dd0b96b938feb4bc80d14d45f897cb4b1a685a1e45b75c4d
+[I 09:06:33.065 NotebookApp]  or http://127.0.0.1:8888/?token=dd0b96b938feb4bc80d14d45f897cb4b1a685a1e45b75c4d
+[I 09:06:33.065 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:06:33.173 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-6669-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=dd0b96b938feb4bc80d14d45f897cb4b1a685a1e45b75c4d
+     or http://127.0.0.1:8888/?token=dd0b96b938feb4bc80d14d45f897cb4b1a685a1e45b75c4d
+[W 09:07:19.275 NotebookApp] 404 GET /notebooks/dice%20and%20coin%20game%20day%204.ipynb (127.0.0.1): file or directory does not exist: 'dice and coin game day 4.ipynb'
+[W 09:07:19.393 NotebookApp] 404 GET /notebooks/dice%20and%20coin%20game%20day%204.ipynb (127.0.0.1) 120.070000ms referer=http://localhost:8888/tree
+[W 09:10:25.984 NotebookApp] Notebook dice and coin game day 4.ipynb is not trusted
+[I 09:10:26.472 NotebookApp] Kernel started: 1423afa8-b63d-4053-9d98-9f61d6b04a2d, name: python3
+[I 09:16:26.182 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:18:26.154 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:20:26.155 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:22:26.156 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:24:26.151 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:26:26.155 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:32:26.153 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:34:26.153 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:40:26.602 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:44:26.156 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:46:26.590 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:52:26.587 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:53:44.906 NotebookApp] Starting buffering for 1423afa8-b63d-4053-9d98-9f61d6b04a2d:24e6c99392794f3b8003fa4b13579079
+[I 09:53:45.462 NotebookApp] Kernel restarted: 1423afa8-b63d-4053-9d98-9f61d6b04a2d
+[I 09:53:45.487 NotebookApp] Restoring connection for 1423afa8-b63d-4053-9d98-9f61d6b04a2d:24e6c99392794f3b8003fa4b13579079
+[I 09:53:46.976 NotebookApp] Replaying 3 buffered messages
+[I 09:54:26.617 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:56:26.155 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 09:58:26.156 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 10:00:26.154 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 10:02:26.624 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 10:40:26.152 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 10:47:13.840 NotebookApp] Creating new notebook in 
+[I 10:47:16.213 NotebookApp] Kernel started: b746a88c-806d-4a6d-beb0-587883a94e55, name: python3
+[I 10:47:37.931 NotebookApp] Creating new notebook in 
+[I 10:47:40.269 NotebookApp] Kernel started: abb5076c-a3d9-4947-8b03-c89c1e8bdecf, name: python3
+[I 10:49:16.224 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:49:40.251 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:51:40.251 NotebookApp] Saving file at /Untitled1.ipynb
+[I 10:56:03.633 NotebookApp] Creating new notebook in 
+[I 10:56:05.832 NotebookApp] Kernel started: 971937a1-03f9-4fda-877f-6e16bddf9ab9, name: python3
+[I 10:58:05.835 NotebookApp] Saving file at /api server side.ipynb
+[I 11:00:05.812 NotebookApp] Saving file at /api server side.ipynb
+[I 11:01:40.921 NotebookApp] Kernel interrupted: 971937a1-03f9-4fda-877f-6e16bddf9ab9
+[I 11:02:06.611 NotebookApp] Saving file at /api server side.ipynb
+[I 11:26:32.884 NotebookApp] Creating new notebook in 
+[I 11:26:35.056 NotebookApp] Kernel started: 5dd4231d-740e-42f7-9303-2567af51b9c1, name: python3
+[I 11:28:35.030 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:30:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:32:35.052 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:34:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:36:35.598 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:38:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:42:35.029 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:44:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:48:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:50:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:52:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:54:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:56:35.023 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:58:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 11:59:44.374 NotebookApp] Creating new notebook in 
+[I 11:59:46.752 NotebookApp] Kernel started: af675511-8057-4b32-9cfd-57edf3d17339, name: python3
+[I 12:00:35.589 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:00:59.782 NotebookApp] Starting buffering for 971937a1-03f9-4fda-877f-6e16bddf9ab9:a0bd037c18fd462a86e305ac179b9b07
+[I 12:01:46.727 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:02:02.045 NotebookApp] Creating new notebook in 
+[I 12:02:04.301 NotebookApp] Kernel started: 10b95639-4d00-44ea-b1d4-9794ed465f8d, name: python3
+[I 12:03:47.588 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:04:04.276 NotebookApp] Saving file at /Untitled2.ipynb
+[I 12:05:07.446 NotebookApp] Uploading file to /Untitled8.ipynb
+[I 12:05:08.710 NotebookApp] Uploading file to /Untitled6.ipynb
+[I 12:05:09.811 NotebookApp] Uploading file to /Untitled4.ipynb
+[I 12:05:10.706 NotebookApp] Uploading file to /Untitled3.ipynb
+[I 12:05:20.601 NotebookApp] Uploading file to /Untitled7.ipynb
+[I 12:05:33.645 NotebookApp] Kernel started: 357fe084-7ca3-466f-bb9f-61346e09bb6c, name: python3
+[I 12:05:36.102 NotebookApp] Starting buffering for 357fe084-7ca3-466f-bb9f-61346e09bb6c:44fff40313d041c581e574b7e7218d8f
+[I 12:05:46.726 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:07:45.269 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:07:46.730 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:08:04.588 NotebookApp] Saving file at /Untitled2.ipynb
+[I 12:09:46.732 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:10:04.275 NotebookApp] Saving file at /Untitled2.ipynb
+[I 12:10:30.836 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:11:00.600 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:11:46.740 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:11:58.325 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:12:04.278 NotebookApp] Saving file at /Untitled2.ipynb
+[I 12:13:46.731 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:15:21.923 NotebookApp] Uploading file to /d.json
+[I 12:15:24.394 NotebookApp] Saving file at /d.json
+[I 12:16:35.053 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:18:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:20:35.593 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:21:37.607 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:21:47.586 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:22:04.583 NotebookApp] Saving file at /Untitled2.ipynb
+[I 12:22:25.521 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:22:48.339 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:23:41.710 NotebookApp] Kernel interrupted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 12:23:47.587 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:24:04.274 NotebookApp] Saving file at /Untitled2.ipynb
+[I 12:26:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:28:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:31:47.584 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:32:04.586 NotebookApp] Saving file at /Untitled2.ipynb
+[I 12:43:47.586 NotebookApp] Saving file at /q part 2.ipynb
+[I 12:44:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:46:35.589 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:48:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:50:35.026 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:52:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:54:35.026 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:56:35.029 NotebookApp] Saving file at /1st weak task.ipynb
+[I 12:58:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 13:00:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 13:02:35.026 NotebookApp] Saving file at /1st weak task.ipynb
+[I 13:04:35.027 NotebookApp] Saving file at /1st weak task.ipynb
+[I 13:06:35.028 NotebookApp] Saving file at /1st weak task.ipynb
+[I 13:07:48.000 NotebookApp] Creating new notebook in 
+[I 13:07:50.551 NotebookApp] Kernel started: 30c7f587-2672-470d-b04d-4f115870afe4, name: python3
+[I 13:08:20.682 NotebookApp] Starting buffering for af675511-8057-4b32-9cfd-57edf3d17339:c009e293aaa444519c7c4686c5be9d13
+[I 13:08:23.339 NotebookApp] Kernel restarted: af675511-8057-4b32-9cfd-57edf3d17339
+[I 13:08:23.359 NotebookApp] Restoring connection for af675511-8057-4b32-9cfd-57edf3d17339:c009e293aaa444519c7c4686c5be9d13
+[I 13:08:24.793 NotebookApp] Replaying 17 buffered messages
+[I 13:09:47.585 NotebookApp] Saving file at /q part 2.ipynb
+[I 13:09:50.444 NotebookApp] Saving file at /task 3.ipynb
+[I 13:11:50.443 NotebookApp] Saving file at /task 3.ipynb
+[I 13:26:24.983 NotebookApp] Starting buffering for af675511-8057-4b32-9cfd-57edf3d17339:c009e293aaa444519c7c4686c5be9d13
+[I 13:26:24.996 NotebookApp] Starting buffering for 30c7f587-2672-470d-b04d-4f115870afe4:fcdc61166fee4a579a92282dda62983a
+[I 13:26:25.156 NotebookApp] Starting buffering for 10b95639-4d00-44ea-b1d4-9794ed465f8d:1c5d774798eb440db9f24b7073ca8ee0
+[I 13:26:25.157 NotebookApp] Starting buffering for 5dd4231d-740e-42f7-9303-2567af51b9c1:7d687725fe434152a97944ab0b3a4df3
+[I 13:26:25.157 NotebookApp] Starting buffering for abb5076c-a3d9-4947-8b03-c89c1e8bdecf:c6a5cd79653d415597fce0e11a95bbaf
+[I 13:26:25.158 NotebookApp] Starting buffering for b746a88c-806d-4a6d-beb0-587883a94e55:9e431fdd0e9f416f818d07066fa9b305
+[I 13:26:25.158 NotebookApp] Starting buffering for 1423afa8-b63d-4053-9d98-9f61d6b04a2d:24e6c99392794f3b8003fa4b13579079
+[I 13:26:26.068 NotebookApp] Restoring connection for 5dd4231d-740e-42f7-9303-2567af51b9c1:7d687725fe434152a97944ab0b3a4df3
+[I 13:26:26.580 NotebookApp] Restoring connection for 1423afa8-b63d-4053-9d98-9f61d6b04a2d:24e6c99392794f3b8003fa4b13579079
+[I 13:26:26.614 NotebookApp] Restoring connection for af675511-8057-4b32-9cfd-57edf3d17339:c009e293aaa444519c7c4686c5be9d13
+[I 13:26:26.653 NotebookApp] Restoring connection for 30c7f587-2672-470d-b04d-4f115870afe4:fcdc61166fee4a579a92282dda62983a
+[I 13:26:26.677 NotebookApp] Restoring connection for 10b95639-4d00-44ea-b1d4-9794ed465f8d:1c5d774798eb440db9f24b7073ca8ee0
+[I 13:26:26.708 NotebookApp] Restoring connection for abb5076c-a3d9-4947-8b03-c89c1e8bdecf:c6a5cd79653d415597fce0e11a95bbaf
+[I 13:26:26.747 NotebookApp] Restoring connection for b746a88c-806d-4a6d-beb0-587883a94e55:9e431fdd0e9f416f818d07066fa9b305
+[I 13:56:32.597 NotebookApp] Starting buffering for b746a88c-806d-4a6d-beb0-587883a94e55:9e431fdd0e9f416f818d07066fa9b305
+[I 13:56:32.598 NotebookApp] Starting buffering for abb5076c-a3d9-4947-8b03-c89c1e8bdecf:c6a5cd79653d415597fce0e11a95bbaf
+[I 13:56:32.600 NotebookApp] Starting buffering for 10b95639-4d00-44ea-b1d4-9794ed465f8d:1c5d774798eb440db9f24b7073ca8ee0
+[I 13:56:32.613 NotebookApp] Starting buffering for 30c7f587-2672-470d-b04d-4f115870afe4:fcdc61166fee4a579a92282dda62983a
+[I 13:56:32.614 NotebookApp] Starting buffering for af675511-8057-4b32-9cfd-57edf3d17339:c009e293aaa444519c7c4686c5be9d13
+[I 13:56:32.615 NotebookApp] Starting buffering for 1423afa8-b63d-4053-9d98-9f61d6b04a2d:24e6c99392794f3b8003fa4b13579079
+[I 13:56:32.616 NotebookApp] Starting buffering for 5dd4231d-740e-42f7-9303-2567af51b9c1:7d687725fe434152a97944ab0b3a4df3
+[I 13:56:33.691 NotebookApp] Restoring connection for 5dd4231d-740e-42f7-9303-2567af51b9c1:7d687725fe434152a97944ab0b3a4df3
+[I 13:56:34.606 NotebookApp] Restoring connection for b746a88c-806d-4a6d-beb0-587883a94e55:9e431fdd0e9f416f818d07066fa9b305
+[I 13:56:34.627 NotebookApp] Restoring connection for 1423afa8-b63d-4053-9d98-9f61d6b04a2d:24e6c99392794f3b8003fa4b13579079
+[I 13:56:34.650 NotebookApp] Restoring connection for abb5076c-a3d9-4947-8b03-c89c1e8bdecf:c6a5cd79653d415597fce0e11a95bbaf
+[I 13:56:34.677 NotebookApp] Restoring connection for 10b95639-4d00-44ea-b1d4-9794ed465f8d:1c5d774798eb440db9f24b7073ca8ee0
+[I 13:56:34.701 NotebookApp] Restoring connection for 30c7f587-2672-470d-b04d-4f115870afe4:fcdc61166fee4a579a92282dda62983a
+[I 13:56:34.717 NotebookApp] Restoring connection for af675511-8057-4b32-9cfd-57edf3d17339:c009e293aaa444519c7c4686c5be9d13
+[I 14:35:50.818 NotebookApp] Saving file at /q part 2.ipynb
+[I 14:36:39.680 NotebookApp] Saving file at /1st weak task.ipynb
+[I 14:37:51.683 NotebookApp] Saving file at /q part 2.ipynb
+[I 14:38:39.677 NotebookApp] Saving file at /1st weak task.ipynb
+[I 14:39:51.674 NotebookApp] Saving file at /q part 2.ipynb
+[I 15:04:39.681 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:06:39.118 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:08:39.765 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:10:39.769 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:19:07.300 NotebookApp] Starting buffering for 1423afa8-b63d-4053-9d98-9f61d6b04a2d:24e6c99392794f3b8003fa4b13579079
+[I 15:19:26.052 NotebookApp] Starting buffering for b746a88c-806d-4a6d-beb0-587883a94e55:9e431fdd0e9f416f818d07066fa9b305
+[I 15:19:31.600 NotebookApp] Starting buffering for abb5076c-a3d9-4947-8b03-c89c1e8bdecf:c6a5cd79653d415597fce0e11a95bbaf
+[I 15:24:39.796 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:28:39.769 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:30:39.777 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:32:39.772 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:36:39.774 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:38:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:40:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:42:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:44:39.767 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:46:00.598 NotebookApp] Starting buffering for 5dd4231d-740e-42f7-9303-2567af51b9c1:7d687725fe434152a97944ab0b3a4df3
+[I 15:46:01.657 NotebookApp] Kernel restarted: 5dd4231d-740e-42f7-9303-2567af51b9c1
+[I 15:46:01.688 NotebookApp] Restoring connection for 5dd4231d-740e-42f7-9303-2567af51b9c1:7d687725fe434152a97944ab0b3a4df3
+[I 15:46:03.094 NotebookApp] Replaying 3 buffered messages
+[I 15:46:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:48:39.767 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:50:39.763 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:52:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:54:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 15:58:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:00:39.767 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:04:39.769 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:12:39.769 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:16:39.770 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:18:39.767 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:20:39.766 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:22:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:24:39.767 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:26:39.770 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:28:39.768 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:30:39.772 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:32:39.783 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:36:39.767 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:38:39.774 NotebookApp] Saving file at /1st weak task.ipynb
+[I 16:57:17.869 NotebookApp] Creating new notebook in 
+[I 16:57:20.450 NotebookApp] Kernel started: f6c87192-6b43-407f-92d9-8b554a80c486, name: python3
+[I 16:57:55.358 NotebookApp] Saving file at /task 3.ipynb
+[I 16:59:21.344 NotebookApp] Saving file at /Untitled5.ipynb
+[I 16:59:55.182 NotebookApp] Saving file at /task 3.ipynb
+[I 16:59:55.865 NotebookApp] Kernel interrupted: 30c7f587-2672-470d-b04d-4f115870afe4
+[I 17:01:21.327 NotebookApp] Saving file at /Untitled5.ipynb
+[I 17:01:55.184 NotebookApp] Saving file at /task 3.ipynb
+[I 17:03:55.203 NotebookApp] Saving file at /task 3.ipynb
+[I 17:33:55.354 NotebookApp] Saving file at /task 3.ipynb
+[I 18:08:39.797 NotebookApp] Saving file at /1st weak task.ipynb
+[I 18:16:40.364 NotebookApp] Saving file at /1st weak task.ipynb
+[I 18:23:55.205 NotebookApp] Saving file at /task 3.ipynb
+[I 18:35:02.017 NotebookApp] Starting buffering for 10b95639-4d00-44ea-b1d4-9794ed465f8d:1c5d774798eb440db9f24b7073ca8ee0
+[I 18:35:02.019 NotebookApp] Starting buffering for af675511-8057-4b32-9cfd-57edf3d17339:c009e293aaa444519c7c4686c5be9d13
+[I 18:35:02.019 NotebookApp] Starting buffering for 30c7f587-2672-470d-b04d-4f115870afe4:fcdc61166fee4a579a92282dda62983a
+[I 18:35:02.020 NotebookApp] Starting buffering for f6c87192-6b43-407f-92d9-8b554a80c486:fe4cda7c222f43bb8982fc5b3679897e
+[I 18:35:02.020 NotebookApp] Starting buffering for 5dd4231d-740e-42f7-9303-2567af51b9c1:7d687725fe434152a97944ab0b3a4df3
+[I 2023-02-18 08:18:47.982 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-18 08:18:47.982 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 08:18:48.333 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/day5
+[I 08:18:48.490 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 08:18:48.491 NotebookApp] http://localhost:8888/?token=300263b3d9e57ee6ddb5209b033e5f55167bd771111a642d
+[I 08:18:48.491 NotebookApp]  or http://127.0.0.1:8888/?token=300263b3d9e57ee6ddb5209b033e5f55167bd771111a642d
+[I 08:18:48.491 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:18:49.665 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-4529-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=300263b3d9e57ee6ddb5209b033e5f55167bd771111a642d
+     or http://127.0.0.1:8888/?token=300263b3d9e57ee6ddb5209b033e5f55167bd771111a642d
+[W 08:20:18.345 NotebookApp] Notebook Untitled2.ipynb is not trusted
+[I 08:20:20.350 NotebookApp] Kernel started: e01de4d7-f47c-4697-9163-c919d6cff267, name: python3
+[W 08:20:20.387 NotebookApp] Notebook task 3.ipynb is not trusted
+[W 08:20:21.124 NotebookApp] Notebook Untitled5.ipynb is not trusted
+[I 08:20:21.848 NotebookApp] Kernel started: 9663860a-4420-44ea-ab8e-742ca4eccff1, name: python3
+[I 08:20:21.865 NotebookApp] Kernel started: 08392e2b-f923-40e0-a020-8916973b0938, name: python3
+[W 08:20:58.714 NotebookApp] Notebook q part 2.ipynb is not trusted
+[I 08:20:59.020 NotebookApp] Kernel started: b575bf62-3ba4-41d2-81f3-e315bc99f576, name: python3
+[W 08:21:04.894 NotebookApp] Notebook 1st weak task.ipynb is not trusted
+[I 08:21:05.381 NotebookApp] Kernel started: 222a5dd9-2c1c-4d89-accf-cf5925e15d52, name: python3
+[I 08:21:34.769 NotebookApp] Starting buffering for 222a5dd9-2c1c-4d89-accf-cf5925e15d52:cca5868e5cc24e8a8a1d8f01d10a1b99
+[I 08:21:41.715 NotebookApp] Starting buffering for b575bf62-3ba4-41d2-81f3-e315bc99f576:217ff3e8366c4fe18caca12c0f171882
+[I 08:21:44.487 NotebookApp] Starting buffering for e01de4d7-f47c-4697-9163-c919d6cff267:68c61526d7e64a9ebb18fbb566ca7fdf
+[I 08:24:20.978 NotebookApp] Saving file at /task 3.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 08:34:20.950 NotebookApp] Saving file at /task 3.ipynb
+[I 08:36:20.948 NotebookApp] Saving file at /task 3.ipynb
+[I 08:38:20.950 NotebookApp] Saving file at /task 3.ipynb
+[I 08:40:20.949 NotebookApp] Saving file at /task 3.ipynb
+[I 08:42:20.948 NotebookApp] Saving file at /task 3.ipynb
+[I 08:44:20.948 NotebookApp] Saving file at /task 3.ipynb
+[I 08:46:20.949 NotebookApp] Saving file at /task 3.ipynb
+[I 08:48:20.949 NotebookApp] Saving file at /task 3.ipynb
+[I 08:50:20.946 NotebookApp] Saving file at /task 3.ipynb
+[I 08:52:20.949 NotebookApp] Saving file at /task 3.ipynb
+[I 08:54:20.949 NotebookApp] Saving file at /task 3.ipynb
+[I 09:48:11.655 NotebookApp] Creating new notebook in 
+[I 09:48:14.223 NotebookApp] Kernel started: beaf33a8-7df9-409c-84be-790628211482, name: python3
+[I 09:50:15.013 NotebookApp] Saving file at /numpy.ipynb
+[I 09:52:14.093 NotebookApp] Saving file at /numpy.ipynb
+[I 09:54:14.097 NotebookApp] Saving file at /numpy.ipynb
+[I 09:58:14.095 NotebookApp] Saving file at /numpy.ipynb
+[I 10:00:14.093 NotebookApp] Saving file at /numpy.ipynb
+[I 10:02:14.086 NotebookApp] Saving file at /numpy.ipynb
+[I 10:04:14.094 NotebookApp] Saving file at /numpy.ipynb
+[I 10:16:29.274 NotebookApp] Starting buffering for 9663860a-4420-44ea-ab8e-742ca4eccff1:d6af03ab58a04c7a8a26c41c73e23629
+[I 10:16:32.008 NotebookApp] Starting buffering for 08392e2b-f923-40e0-a020-8916973b0938:9362960577d4445c84aacaa83dedc181
+[I 10:18:14.094 NotebookApp] Saving file at /numpy.ipynb
+[I 10:20:14.988 NotebookApp] Saving file at /numpy.ipynb
+[I 10:22:08.297 NotebookApp] Starting buffering for beaf33a8-7df9-409c-84be-790628211482:f5be73e25ce9422685f526a25f92daa7
