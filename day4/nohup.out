@@ -1,0 +1,475 @@
+[I 2023-02-16 09:13:50.241 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-16 09:13:50.241 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 09:13:50.249 NotebookApp] The port 8888 is already in use, trying another port.
+[I 09:13:50.250 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/day4
+[I 09:13:50.250 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 09:13:50.250 NotebookApp] http://localhost:8889/?token=8c130c1ee7430e5f97445ee1cb0d13d6745f1256d73c69ae
+[I 09:13:50.250 NotebookApp]  or http://127.0.0.1:8889/?token=8c130c1ee7430e5f97445ee1cb0d13d6745f1256d73c69ae
+[I 09:13:50.250 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:13:50.324 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-7174-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=8c130c1ee7430e5f97445ee1cb0d13d6745f1256d73c69ae
+     or http://127.0.0.1:8889/?token=8c130c1ee7430e5f97445ee1cb0d13d6745f1256d73c69ae
+[I 09:13:59.495 NotebookApp] Creating new notebook in 
+[I 09:14:11.446 NotebookApp] Kernel started: 7942b3bd-3ad2-4299-b608-1c6a8dd6139f, name: python3
+[I 09:16:10.269 NotebookApp] Saving file at /Untitled.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 09:24:10.278 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:26:11.002 NotebookApp] Saving file at /Untitled.ipynb
+[I 2023-02-16 09:35:26.748 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-16 09:35:26.748 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 09:35:26.776 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/day4
+[I 09:35:26.776 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 09:35:26.776 NotebookApp] http://localhost:8888/?token=59fa4a922fcbb9f9c2eab36b2bdc566aa42629509fd49f78
+[I 09:35:26.776 NotebookApp]  or http://127.0.0.1:8888/?token=59fa4a922fcbb9f9c2eab36b2bdc566aa42629509fd49f78
+[I 09:35:26.776 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:35:26.902 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-4365-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=59fa4a922fcbb9f9c2eab36b2bdc566aa42629509fd49f78
+     or http://127.0.0.1:8888/?token=59fa4a922fcbb9f9c2eab36b2bdc566aa42629509fd49f78
+[W 09:36:05.482 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 09:36:05.882 NotebookApp] Kernel started: 95f73d97-c927-4604-83ce-93f9f291d7bf, name: python3
+[I 09:38:05.648 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:40:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:42:05.613 NotebookApp] Saving file at /Untitled.ipynb
+[I 09:50:14.566 NotebookApp] Uploading file to /Untitled8.ipynb
+[I 09:50:20.465 NotebookApp] Kernel started: 49e8b495-f08c-4563-a6b7-c3d8ca312e1e, name: python3
+[I 09:50:29.931 NotebookApp] Starting buffering for 49e8b495-f08c-4563-a6b7-c3d8ca312e1e:aa94db22967b45359020f0fe3565f95f
+[I 09:50:42.899 NotebookApp] Uploading file to /Untitled7.ipynb
+[I 09:50:48.333 NotebookApp] Kernel started: fa00e268-7c04-4739-9f00-057a3ebf15a5, name: python3
+[I 09:51:11.274 NotebookApp] Starting buffering for fa00e268-7c04-4739-9f00-057a3ebf15a5:a09ff819f7014f8f9c8fedcd1b84a72e
+[I 09:51:22.828 NotebookApp] Uploading file to /Untitled6.ipynb
+[I 09:51:29.319 NotebookApp] Kernel started: 3b910fe9-4691-465f-83ce-4f3114b9fcca, name: python3
+[I 09:53:27.206 NotebookApp] Starting buffering for 3b910fe9-4691-465f-83ce-4f3114b9fcca:2e762d30c50144b2b8bd72099f61be3f
+[I 09:56:34.559 NotebookApp] Saving file at /Untitled6.ipynb
+[I 10:28:05.646 NotebookApp] Saving file at /Untitled.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 10:28:10.980 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 10:28:11.534 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 10:28:11.557 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 10:28:13.015 NotebookApp] Replaying 3 buffered messages
+[I 10:30:05.621 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:32:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:46:05.613 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:48:05.619 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:50:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:52:05.611 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:56:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 10:56:16.828 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 10:56:17.280 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 10:56:17.301 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 10:56:18.657 NotebookApp] Replaying 3 buffered messages
+[I 10:58:06.002 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:09:58.435 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:09:58.888 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:09:58.910 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:10:00.262 NotebookApp] Replaying 3 buffered messages
+[I 11:10:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:12:06.002 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:16:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:16:42.627 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:16:43.080 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:16:43.101 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:16:44.369 NotebookApp] Replaying 3 buffered messages
+[I 11:17:24.439 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:17:24.892 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:17:24.913 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:17:26.233 NotebookApp] Replaying 3 buffered messages
+[I 11:18:05.611 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:20:05.609 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:22:05.626 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:22:41.042 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:22:41.495 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:22:41.515 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:22:42.822 NotebookApp] Replaying 3 buffered messages
+[I 11:23:17.833 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:23:18.388 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:23:18.409 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:23:19.653 NotebookApp] Replaying 3 buffered messages
+[I 11:24:05.620 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:30:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:19.155 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:31:19.708 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:31:19.732 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:31:21.078 NotebookApp] Replaying 3 buffered messages
+[I 11:32:05.626 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:32:10.193 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:32:10.647 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:32:10.667 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:32:11.927 NotebookApp] Replaying 3 buffered messages
+[I 11:32:52.115 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:32:52.568 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:32:52.587 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:32:54.690 NotebookApp] Replaying 3 buffered messages
+[I 11:33:47.651 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:33:48.105 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:33:48.126 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:33:49.419 NotebookApp] Replaying 3 buffered messages
+[I 11:34:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:34:26.101 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:34:26.657 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:34:26.679 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:34:27.969 NotebookApp] Replaying 3 buffered messages
+[W 11:35:41.355 NotebookApp] Notebook Untitled.ipynb is not trusted
+[W 11:35:49.428 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 11:35:51.878 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:36:05.610 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:36:48.679 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:36:49.232 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:36:49.254 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:36:50.522 NotebookApp] Replaying 3 buffered messages
+[I 11:37:48.522 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:37:48.975 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:37:49.006 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:37:50.446 NotebookApp] Replaying 3 buffered messages
+[I 11:38:05.611 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:41:30.016 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:41:30.465 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:41:30.484 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:41:31.751 NotebookApp] Replaying 3 buffered messages
+[I 11:42:05.625 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:43:40.317 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:43:40.871 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:43:40.893 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:43:42.159 NotebookApp] Replaying 3 buffered messages
+[I 11:44:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:44:27.202 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:44:27.758 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:44:27.780 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:44:29.053 NotebookApp] Replaying 3 buffered messages
+[I 11:44:52.435 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:44:52.990 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:44:53.014 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:44:54.285 NotebookApp] Replaying 3 buffered messages
+[I 11:46:05.614 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:55:11.351 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:55:11.908 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:55:11.932 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:55:13.206 NotebookApp] Replaying 3 buffered messages
+[I 11:56:02.108 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:56:02.562 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:56:02.583 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:56:03.872 NotebookApp] Replaying 3 buffered messages
+[I 11:56:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:56:24.421 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:56:24.975 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:56:24.997 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:56:26.242 NotebookApp] Replaying 3 buffered messages
+[I 11:57:23.563 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:57:24.014 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:57:24.034 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:57:25.315 NotebookApp] Replaying 3 buffered messages
+[I 11:58:05.613 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:58:31.453 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:58:31.906 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:58:31.925 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:58:33.217 NotebookApp] Replaying 3 buffered messages
+[I 11:59:11.032 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:59:11.484 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 11:59:11.506 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 11:59:12.810 NotebookApp] Replaying 3 buffered messages
+[I 12:00:06.009 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:08:28.195 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:08:28.670 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:08:28.702 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:08:30.493 NotebookApp] Replaying 3 buffered messages
+[I 12:10:04.528 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:10:04.985 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:10:05.005 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:10:05.611 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:10:06.295 NotebookApp] Replaying 3 buffered messages
+[I 12:12:06.023 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:13:53.857 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:13:54.412 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:13:54.432 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:13:57.005 NotebookApp] Replaying 3 buffered messages
+[I 12:14:05.613 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:15:13.099 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:15:13.653 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:15:13.672 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:15:15.049 NotebookApp] Replaying 3 buffered messages
+[I 12:16:06.006 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:16:27.575 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:16:28.130 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:16:28.153 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:16:29.492 NotebookApp] Replaying 3 buffered messages
+[I 12:17:24.615 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:17:25.069 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:17:25.089 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:17:26.408 NotebookApp] Replaying 3 buffered messages
+[I 12:18:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:20:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:20:20.231 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:20:20.786 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:20:20.807 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:20:22.087 NotebookApp] Replaying 3 buffered messages
+[I 12:22:01.759 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:22:02.315 NotebookApp] Kernel restarted: 95f73d97-c927-4604-83ce-93f9f291d7bf
+[I 12:22:02.335 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 12:22:03.628 NotebookApp] Replaying 3 buffered messages
+[I 12:22:05.611 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:24:06.003 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:50:05.612 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:52:05.611 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:54:06.004 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:36:05.616 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:58:06.013 NotebookApp] Saving file at /Untitled.ipynb
+[I 14:05:05.945 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 14:05:05.956 NotebookApp] Starting buffering for 3b910fe9-4691-465f-83ce-4f3114b9fcca:0490b5a01c46474e820d29fdede88698
+[I 14:05:07.995 NotebookApp] Restoring connection for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 14:05:08.021 NotebookApp] Restoring connection for 3b910fe9-4691-465f-83ce-4f3114b9fcca:0490b5a01c46474e820d29fdede88698
+[I 15:10:17.707 NotebookApp] Creating new notebook in 
+[I 15:10:23.035 NotebookApp] Kernel started: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe, name: python3
+[I 15:12:22.944 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:16:22.944 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:17:32.984 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:17:33.542 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:17:33.564 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:17:34.832 NotebookApp] Replaying 3 buffered messages
+[I 15:18:23.103 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:19:09.897 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:19:12.551 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:19:12.573 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:19:13.903 NotebookApp] Replaying 14 buffered messages
+[I 15:19:41.348 NotebookApp] Creating new notebook in 
+[I 15:19:43.540 NotebookApp] Kernel started: 4cee01a7-3aef-4f27-aa0b-6328ec181d24, name: python3
+[I 15:20:23.099 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:21:43.520 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:25:44.102 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:26:18.805 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:26:19.564 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:26:19.585 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:26:20.934 NotebookApp] Replaying 16 buffered messages
+[I 15:26:22.940 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:27:10.697 NotebookApp] Starting buffering for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:27:11.152 NotebookApp] Kernel restarted: 4cee01a7-3aef-4f27-aa0b-6328ec181d24
+[I 15:27:11.176 NotebookApp] Restoring connection for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:27:12.474 NotebookApp] Replaying 3 buffered messages
+[I 15:27:44.103 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:28:23.102 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:29:44.123 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:30:22.942 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:32:02.721 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:32:03.275 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:32:03.295 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:32:04.570 NotebookApp] Replaying 5 buffered messages
+[I 15:32:22.941 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:34:23.103 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:35:44.100 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:36:22.942 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:36:55.036 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:36:57.690 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:36:57.714 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:36:58.942 NotebookApp] Replaying 14 buffered messages
+[I 15:37:44.103 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:37:48.338 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:37:48.891 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:37:48.912 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:37:50.200 NotebookApp] Replaying 5 buffered messages
+[I 15:38:22.939 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:39:44.103 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:39:46.050 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:39:46.605 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:39:46.625 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:39:47.886 NotebookApp] Replaying 5 buffered messages
+[I 15:40:00.991 NotebookApp] Starting buffering for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:40:01.546 NotebookApp] Kernel restarted: 4cee01a7-3aef-4f27-aa0b-6328ec181d24
+[I 15:40:01.566 NotebookApp] Restoring connection for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:40:02.923 NotebookApp] Replaying 3 buffered messages
+[I 15:40:07.791 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:40:08.346 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:40:08.366 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:40:09.656 NotebookApp] Replaying 5 buffered messages
+[I 15:40:23.103 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:41:23.877 NotebookApp] Starting buffering for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:41:24.431 NotebookApp] Kernel restarted: 4cee01a7-3aef-4f27-aa0b-6328ec181d24
+[I 15:41:24.463 NotebookApp] Restoring connection for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:41:25.765 NotebookApp] Replaying 3 buffered messages
+[I 15:41:44.101 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:41:55.188 NotebookApp] Starting buffering for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:41:55.742 NotebookApp] Kernel restarted: 4cee01a7-3aef-4f27-aa0b-6328ec181d24
+[I 15:41:55.764 NotebookApp] Restoring connection for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 15:41:57.072 NotebookApp] Replaying 3 buffered messages
+[I 15:42:06.343 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:42:06.898 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:42:06.917 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:42:08.255 NotebookApp] Replaying 5 buffered messages
+[I 15:42:23.101 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:43:44.102 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:44:22.941 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:44:24.665 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:44:27.316 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:44:27.340 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:44:29.187 NotebookApp] Replaying 14 buffered messages
+[I 15:45:36.143 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:45:36.697 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:45:36.717 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:45:37.978 NotebookApp] Replaying 5 buffered messages
+[I 15:45:43.525 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:46:22.943 NotebookApp] Saving file at /Untitled1.ipynb
+[W 15:46:29.422 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 15:46:36.547 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:46:37.100 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:46:37.122 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:46:38.400 NotebookApp] Replaying 10 buffered messages
+[I 15:47:04.632 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:47:05.187 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:47:05.212 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:47:06.491 NotebookApp] Replaying 5 buffered messages
+[I 15:47:44.103 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:48:22.941 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:50:22.942 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:50:25.700 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:50:26.355 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:50:26.377 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 15:50:27.726 NotebookApp] Replaying 11 buffered messages
+[I 15:51:44.103 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:51:58.685 NotebookApp] Kernel interrupted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:52:23.100 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:52:43.747 NotebookApp] Kernel interrupted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:53:44.103 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:54:22.943 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:57:43.536 NotebookApp] Saving file at /Untitled2.ipynb
+[I 15:58:07.762 NotebookApp] Kernel interrupted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 15:58:23.102 NotebookApp] Saving file at /Untitled1.ipynb
+[I 15:59:44.108 NotebookApp] Saving file at /Untitled2.ipynb
+[I 16:00:23.102 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:05:35.935 NotebookApp] Kernel interrupted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 16:05:43.738 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 16:05:44.293 NotebookApp] Kernel restarted: 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe
+[I 16:05:44.321 NotebookApp] Restoring connection for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 16:05:45.560 NotebookApp] Replaying 3 buffered messages
+[I 16:06:03.661 NotebookApp] Creating new notebook in 
+[I 16:06:06.160 NotebookApp] Kernel started: 7519ab3e-6f31-46d2-8c20-cb72800089ee, name: python3
+[I 16:06:23.101 NotebookApp] Saving file at /Untitled1.ipynb
+[I 16:06:28.384 NotebookApp] Starting buffering for 95f73d97-c927-4604-83ce-93f9f291d7bf:fe6fbe3b47284c98a6e2b01af4d7a605
+[I 16:06:31.861 NotebookApp] Starting buffering for 3b910fe9-4691-465f-83ce-4f3114b9fcca:0490b5a01c46474e820d29fdede88698
+[I 16:07:44.456 NotebookApp] Creating new notebook in 
+[I 16:07:46.679 NotebookApp] Kernel started: b94ce42d-e500-4bf6-97df-c89418c676b7, name: python3
+[I 16:08:07.106 NotebookApp] Saving file at /Untitled3.ipynb
+[I 16:09:46.698 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:11:46.661 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:13:46.672 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:14:07.102 NotebookApp] Saving file at /Untitled3.ipynb
+[I 16:21:46.671 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:22:07.104 NotebookApp] Saving file at /Untitled3.ipynb
+[I 16:23:14.904 NotebookApp] Starting buffering for 7519ab3e-6f31-46d2-8c20-cb72800089ee:617a0c1655bb46429ad18bb6ad6934a9
+[I 16:23:15.462 NotebookApp] Kernel restarted: 7519ab3e-6f31-46d2-8c20-cb72800089ee
+[I 16:23:15.488 NotebookApp] Restoring connection for 7519ab3e-6f31-46d2-8c20-cb72800089ee:617a0c1655bb46429ad18bb6ad6934a9
+[I 16:23:17.170 NotebookApp] Replaying 5 buffered messages
+[I 16:23:46.699 NotebookApp] Saving file at /Untitled4.ipynb
+[I 16:24:07.103 NotebookApp] Saving file at /Untitled3.ipynb
+[I 16:40:00.557 NotebookApp] Starting buffering for b94ce42d-e500-4bf6-97df-c89418c676b7:f79573a4665e46818546f0e5e37e1926
+[I 16:40:01.008 NotebookApp] Starting buffering for 4cee01a7-3aef-4f27-aa0b-6328ec181d24:50792ba23434408bbfba1baeee63924b
+[I 16:40:01.085 NotebookApp] Starting buffering for 7519ab3e-6f31-46d2-8c20-cb72800089ee:617a0c1655bb46429ad18bb6ad6934a9
+[I 16:40:01.086 NotebookApp] Starting buffering for 8d49d994-e0dd-41ad-ad6f-4b9a837ed9fe:f8e9e63e491042a78ddf32aa01c02a47
+[I 2023-02-16 17:07:56.742 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-16 17:07:56.742 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 17:07:56.770 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/day4
+[I 17:07:56.770 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 17:07:56.770 NotebookApp] http://localhost:8888/?token=2d3bc9418edd3e8d69211a789df80a6b233e5dfce928bf56
+[I 17:07:56.770 NotebookApp]  or http://127.0.0.1:8888/?token=2d3bc9418edd3e8d69211a789df80a6b233e5dfce928bf56
+[I 17:07:56.770 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:07:56.929 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-4434-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=2d3bc9418edd3e8d69211a789df80a6b233e5dfce928bf56
+     or http://127.0.0.1:8888/?token=2d3bc9418edd3e8d69211a789df80a6b233e5dfce928bf56
+[W 17:08:17.747 NotebookApp] Notebook Untitled4.ipynb is not trusted
+[I 17:08:19.471 NotebookApp] Kernel started: 69b4967f-077c-4dbe-9643-f99b72f663c0, name: python3
+[W 17:08:20.630 NotebookApp] Notebook Untitled3.ipynb is not trusted
+[I 17:08:20.886 NotebookApp] Kernel started: 0b9169b8-07bb-4fb8-8264-2608ce099093, name: python3
+[W 17:08:23.641 NotebookApp] Notebook Untitled2.ipynb is not trusted
+[I 17:08:23.855 NotebookApp] Kernel started: c0afd55b-717c-48e8-a710-fc6a0b1762c9, name: python3
+[W 17:08:29.177 NotebookApp] Notebook Untitled1.ipynb is not trusted
+[I 17:08:29.446 NotebookApp] Kernel started: 62486aae-b8f1-44fd-be06-5b9c12c51f11, name: python3
+[I 17:09:31.059 NotebookApp] Kernel interrupted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:09:36.588 NotebookApp] Starting buffering for 0b9169b8-07bb-4fb8-8264-2608ce099093:f86cf1785a6c403b8fcbbe6e3eaa6f6b
+[I 17:09:37.241 NotebookApp] Kernel restarted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:09:37.261 NotebookApp] Restoring connection for 0b9169b8-07bb-4fb8-8264-2608ce099093:f86cf1785a6c403b8fcbbe6e3eaa6f6b
+[I 17:09:38.727 NotebookApp] Replaying 3 buffered messages
+[I 17:10:11.488 NotebookApp] Kernel interrupted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:10:17.995 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:10:21.026 NotebookApp] Saving file at /Untitled3.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 17:10:21.664 NotebookApp] Starting buffering for 69b4967f-077c-4dbe-9643-f99b72f663c0:a62c9b29411a4864b8e67af079e6e4b5
+[I 17:10:22.218 NotebookApp] Kernel restarted: 69b4967f-077c-4dbe-9643-f99b72f663c0
+[I 17:10:22.241 NotebookApp] Restoring connection for 69b4967f-077c-4dbe-9643-f99b72f663c0:a62c9b29411a4864b8e67af079e6e4b5
+[I 17:10:23.567 NotebookApp] Replaying 3 buffered messages
+[I 17:12:17.992 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:12:20.993 NotebookApp] Saving file at /Untitled3.ipynb
+[I 17:14:20.880 NotebookApp] Saving file at /Untitled3.ipynb
+[W 17:14:23.444 NotebookApp] Notebook Untitled3.ipynb is not trusted
+[I 17:14:23.481 NotebookApp] Starting buffering for 0b9169b8-07bb-4fb8-8264-2608ce099093:f86cf1785a6c403b8fcbbe6e3eaa6f6b
+[I 17:14:23.683 NotebookApp] Discarding 8 buffered messages for 0b9169b8-07bb-4fb8-8264-2608ce099093:f86cf1785a6c403b8fcbbe6e3eaa6f6b
+[I 17:14:24.241 NotebookApp] Kernel restarted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:15:41.446 NotebookApp] Kernel interrupted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:16:17.986 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:16:20.995 NotebookApp] Saving file at /Untitled3.ipynb
+[I 17:16:45.924 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:17:51.019 NotebookApp] Kernel interrupted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:18:17.991 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:18:20.881 NotebookApp] Saving file at /Untitled3.ipynb
+[I 17:18:59.886 NotebookApp] Kernel interrupted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:20:17.991 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:20:20.992 NotebookApp] Saving file at /Untitled3.ipynb
+[W 17:21:16.469 NotebookApp] Notebook Untitled3.ipynb is not trusted
+[I 17:21:34.227 NotebookApp] Kernel interrupted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:22:18.017 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:22:20.880 NotebookApp] Saving file at /Untitled3.ipynb
+[I 17:23:02.159 NotebookApp] Kernel interrupted: 0b9169b8-07bb-4fb8-8264-2608ce099093
+[I 17:24:17.991 NotebookApp] Saving file at /Untitled4.ipynb
+[I 17:24:20.880 NotebookApp] Saving file at /Untitled3.ipynb
+[I 17:24:48.031 NotebookApp] Starting buffering for 0b9169b8-07bb-4fb8-8264-2608ce099093:f86cf1785a6c403b8fcbbe6e3eaa6f6b
+[I 17:24:48.065 NotebookApp] Starting buffering for 69b4967f-077c-4dbe-9643-f99b72f663c0:a62c9b29411a4864b8e67af079e6e4b5
+[I 17:24:48.120 NotebookApp] Starting buffering for 62486aae-b8f1-44fd-be06-5b9c12c51f11:5c07d8c2f8e24a19845821d045a128e2
+[I 17:24:48.131 NotebookApp] Starting buffering for c0afd55b-717c-48e8-a710-fc6a0b1762c9:78c56243c5e543df86d4407ee406b59b
+[I 2023-02-16 17:36:00.019 LabApp] JupyterLab extension loaded from /home/z-4444/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2023-02-16 17:36:00.019 LabApp] JupyterLab application directory is /home/z-4444/anaconda3/share/jupyter/lab
+[I 17:36:00.793 NotebookApp] Serving notebooks from local directory: /home/z-4444/DS_trainning/day4
+[I 17:36:00.794 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 17:36:00.794 NotebookApp] http://localhost:8888/?token=8529458d729594cfeb98a7113936d509178efa772016d275
+[I 17:36:00.794 NotebookApp]  or http://127.0.0.1:8888/?token=8529458d729594cfeb98a7113936d509178efa772016d275
+[I 17:36:00.794 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:36:02.308 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/z-4444/.local/share/jupyter/runtime/nbserver-3149-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8529458d729594cfeb98a7113936d509178efa772016d275
+     or http://127.0.0.1:8888/?token=8529458d729594cfeb98a7113936d509178efa772016d275
+[I 17:38:19.753 NotebookApp] Creating new notebook in 
+[I 17:38:24.944 NotebookApp] Kernel started: 03f54300-7a6e-4520-b438-00d770cfc047, name: python3
+[I 17:40:25.594 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+/home/z-4444/anaconda3/lib/python3.9/site-packages/nbformat/__init__.py:128: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/home/z-4444/anaconda3/lib/python3.9/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 17:46:24.729 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 17:48:25.570 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 17:50:24.727 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 17:52:24.724 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 17:54:25.567 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 17:56:24.728 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 18:02:25.568 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 18:04:24.723 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 18:06:25.568 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 18:08:24.729 NotebookApp] Saving file at /dice and coin game day 4.ipynb
+[I 18:17:18.743 NotebookApp] Starting buffering for 03f54300-7a6e-4520-b438-00d770cfc047:c2c3ae1099ae47a7a6a4dc9b3151cb9d
